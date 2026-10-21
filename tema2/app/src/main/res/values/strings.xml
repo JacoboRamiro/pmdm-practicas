@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CicloVida</string>
+    <string name="sumar">Sumar 1</string>
+    <string name="contador_texto">Contador: %1$d</string>
+</resources>
