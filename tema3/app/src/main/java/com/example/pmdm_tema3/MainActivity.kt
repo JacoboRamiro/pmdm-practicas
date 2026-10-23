@@ -12,7 +12,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             Pmdmtema3Theme {
-                PantallaListadoInstall()
+                PantallaNuevoUsuario()
             }
         }
     }
